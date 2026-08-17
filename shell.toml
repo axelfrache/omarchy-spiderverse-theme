@@ -1,0 +1,10 @@
+
+[menu]
+selected-background-alpha = 0.12
+selected-border           = "{{ accent }}"
+selected-border-alpha     = 0.9
+
+[launcher]
+selected-background-alpha = 0.12
+selected-border           = "{{ accent }}"
+selected-border-alpha     = 0.9
