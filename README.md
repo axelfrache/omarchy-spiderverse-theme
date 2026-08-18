@@ -9,13 +9,13 @@ Lua config, not legacy hyprlang).
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<you>/omarchy-spiderverse-theme.git
+omarchy theme install https://github.com/axelfrache/omarchy-spiderverse-theme.git
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/<you>/omarchy-spiderverse-theme.git ~/.config/omarchy/themes/spiderverse
+git clone https://github.com/axelfrache/omarchy-spiderverse-theme.git ~/.config/omarchy/themes/spiderverse
 omarchy theme spiderverse
 ```
 
