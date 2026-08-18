@@ -27,9 +27,7 @@ omarchy theme install https://github.com/axelfrache/omarchy-spiderverse-theme
 
 ## Backgrounds
 
-All three are free-to-use photos from [Unsplash](https://unsplash.com),
-chosen for matching the theme's indigo/violet/magenta palette without using
-any Marvel/Sony IP:
+All three are free-to-use photos from [Unsplash](https://unsplash.com):
 
 - `city-rails.jpg` -- [Aleksandr Popov](https://unsplash.com/photos/a-train-track-in-a-city-at-night-gntKJtW9sfk)
 - `mexico-nights.jpg` -- [Eduardo Pastor](https://unsplash.com/photos/a-city-at-night-lit-up-with-neon-lights-gH3hDhmkdFo)
