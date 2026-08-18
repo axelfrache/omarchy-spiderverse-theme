@@ -21,8 +21,23 @@ omarchy theme install https://github.com/axelfrache/omarchy-spiderverse-theme
 
 ![theme switcher preview](preview.png)
 ![lock screen](preview-unlock.png)
-![Miles falling](backgrounds/miles-fall.jpg)
-![Miles mask](backgrounds/miles-mask.jpg)
+![city rails](backgrounds/city-rails.jpg)
+![Mexico nights](backgrounds/mexico-nights.jpg)
+![particle glitch](backgrounds/particle-glitch.jpg)
+
+## Backgrounds
+
+All three are free-to-use photos from [Unsplash](https://unsplash.com),
+chosen for matching the theme's indigo/violet/magenta palette without using
+any Marvel/Sony IP:
+
+- `city-rails.jpg` -- [Aleksandr Popov](https://unsplash.com/photos/a-train-track-in-a-city-at-night-gntKJtW9sfk)
+- `mexico-nights.jpg` -- [Eduardo Pastor](https://unsplash.com/photos/a-city-at-night-lit-up-with-neon-lights-gH3hDhmkdFo)
+- `particle-glitch.jpg` -- [Jr Korpa](https://unsplash.com/photos/neon-pink-and-purple-light-particles-9XngoIpxcEo)
+
+Released under the [Unsplash License](https://unsplash.com/license) --
+free for commercial and personal use, no permission or attribution required.
+Credited here anyway.
 
 ## Also available
 
