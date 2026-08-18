@@ -23,3 +23,13 @@ omarchy theme spiderverse
 
 A matching radial app launcher and lock screen live in a separate repo:
 [spiderverse-omarchy](https://github.com/<you>/spiderverse-omarchy).
+
+## Previews
+
+`preview.png` and `preview-unlock.png` are picked up automatically by
+Omarchy's theme switcher (`omarchy-theme-switcher`), which looks for a
+`preview.*` file at the theme root before falling back to the first image in
+`backgrounds/`. `preview-unlock.png` is an actual screenshot of the
+spiderverse-omarchy lock plugin -- install that too if you want your real
+lock screen to match; without it, locking just uses this theme's colors on
+Omarchy's stock lock screen.
