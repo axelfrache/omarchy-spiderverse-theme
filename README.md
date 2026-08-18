@@ -40,7 +40,7 @@ Credited here anyway.
 ## Also available
 
 A matching radial app launcher and lock screen live in a separate repo:
-[spiderverse-omarchy](https://github.com/axelfrache/spiderverse-omarchy).
+[omarchy-spiderverse](https://github.com/axelfrache/omarchy-spiderverse).
 `preview-unlock.png` above is an actual screenshot of that lock screen --
 install it too if you want your real lock screen to match; without it,
 locking just uses this theme's colors on Omarchy's stock lock screen.
