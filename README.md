@@ -23,7 +23,6 @@ omarchy theme install https://github.com/axelfrache/omarchy-spiderverse-theme
 ![lock screen](preview-unlock.png)
 ![Miles falling](backgrounds/miles-fall.jpg)
 ![Miles mask](backgrounds/miles-mask.jpg)
-![halftone emblem](backgrounds/halftone-emblem.jpg)
 
 ## Also available
 
